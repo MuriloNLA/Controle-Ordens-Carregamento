@@ -47,22 +47,22 @@ O sistema resolveu isso ao criar um **ponto único de controle** para todas as o
 ### Lista de Ordens
 > Visualização de todas as ordens com filtros por cliente, pedido e período.
 
-![Lista de Ordens](screenshots/lista_ordens.png)
+![Lista de Ordens](ListaCarregamentos.png)
 
 ### Formulário de Novo Carregamento
 > Cadastro estruturado com dados do cliente, transporte e pedidos.
 
-![Formulário](screenshots/formulario_novo.png)
+![Formulário](Formulario.png)
 
 ### Checklist de Carregamento
 > Verificação de itens obrigatórios antes da liberação do carregamento.
 
-![Checklist](screenshots/checklist.png)
+![Checklist](Checklist.png)
 
 ### E-mail Gerado Automaticamente
 > Notificação enviada à Expedição e Portaria ao registrar uma nova ordem.
 
-![E-mail](screenshots/email_gerado.png)
+![E-mail](Email.png)
 
 ---
 
